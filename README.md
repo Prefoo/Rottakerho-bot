@@ -1,8 +1,8 @@
 # setuppaa: botti
 
-1. Mene [Discord Developers Applications](https://discord.com/developers/applications) ja luo uusi bottis | voit käyttää myös vanhaa bottia
+1. Mene [Discord Developers Applications](https://discord.com/developers/applications) ja luo bottis | voit käyttää myös vanhaa bottia
 2. Siirry "Bot" -osioon ja mene alas, kunnes näet "Privileged Gateway Intents".
-3. valitse kaikki **Presence Intent**, **Server Members Intent** ja **Message Content Intents**. 
+3. valitse **Presence Intent**, **Server Members Intent** ja **Message Content Intents**. 
 
 # setuppaa: Script
 
